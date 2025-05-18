@@ -35,3 +35,16 @@ A proposta visa desenvolver habilidades de **organização, análise e visualiza
 A partir do dashboard, é possível:
 
 Visualizar o desempenho de vendas Mensal, Trimestral e Anual 
+
+## ▶️ Como Reproduzir
+
+1. Faça o download ou clone este repositório:
+
+   ```bash
+   git clone https://github.com/talyoliv/Dashboard-de-Vendas-do-Xbox-com-Excel.git
+
+2. Abra o arquivo Dashboard_de_Vendas.xlsx no Excel.
+
+3. Explore a Dashboard.
+
+
